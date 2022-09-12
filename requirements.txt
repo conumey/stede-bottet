@@ -1,0 +1,4 @@
+aiopyarr
+discord.py
+python-dotenv
+humanize
